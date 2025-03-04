@@ -1,0 +1,14 @@
+/home/ratix/Public/Csharp/csharp-projeto-musical/bin/Debug/net9.0/csharp-projeto-musical
+/home/ratix/Public/Csharp/csharp-projeto-musical/bin/Debug/net9.0/csharp-projeto-musical.deps.json
+/home/ratix/Public/Csharp/csharp-projeto-musical/bin/Debug/net9.0/csharp-projeto-musical.runtimeconfig.json
+/home/ratix/Public/Csharp/csharp-projeto-musical/bin/Debug/net9.0/csharp-projeto-musical.dll
+/home/ratix/Public/Csharp/csharp-projeto-musical/bin/Debug/net9.0/csharp-projeto-musical.pdb
+/home/ratix/Public/Csharp/csharp-projeto-musical/obj/Debug/net9.0/csharp-projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+/home/ratix/Public/Csharp/csharp-projeto-musical/obj/Debug/net9.0/csharp-projeto-musical.AssemblyInfoInputs.cache
+/home/ratix/Public/Csharp/csharp-projeto-musical/obj/Debug/net9.0/csharp-projeto-musical.AssemblyInfo.cs
+/home/ratix/Public/Csharp/csharp-projeto-musical/obj/Debug/net9.0/csharp-projeto-musical.csproj.CoreCompileInputs.cache
+/home/ratix/Public/Csharp/csharp-projeto-musical/obj/Debug/net9.0/csharp-projeto-musical.dll
+/home/ratix/Public/Csharp/csharp-projeto-musical/obj/Debug/net9.0/refint/csharp-projeto-musical.dll
+/home/ratix/Public/Csharp/csharp-projeto-musical/obj/Debug/net9.0/csharp-projeto-musical.pdb
+/home/ratix/Public/Csharp/csharp-projeto-musical/obj/Debug/net9.0/csharp-projeto-musical.genruntimeconfig.cache
+/home/ratix/Public/Csharp/csharp-projeto-musical/obj/Debug/net9.0/ref/csharp-projeto-musical.dll
